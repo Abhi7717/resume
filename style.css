@@ -1,0 +1,15 @@
+
+hr{
+    background-color:rgb(165, 255, 255);
+     width:"50%";
+} 
+h1{
+    text-align:center;
+    color:rgb(179, 0, 255);
+}
+ body{
+        background-image: url('Desert.jpg');
+}
+section{
+    text-align: center;
+}
